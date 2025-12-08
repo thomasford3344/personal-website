@@ -23,7 +23,7 @@ const ExperienceSec = () => {
       title: "Full Stack Software Developer",
       company: "EBQ",
       type: "Fulltime",
-      description: "Handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated",
+      description: "Developed backend systems in Java and Python, built APIs and databases for dynamic content, integrated internal services to improve operations, and collaborated with teams to deliver features and optimize performance.",
     },
   ];
 
