@@ -45,7 +45,7 @@ const contactBar = {
 const educationData = {
   education: [
     {
-      title: "Bachelor of Engineering: Computer Science - 2017",
+      title: "B.Eng.: Computer Science - 2017",
       description: "Texas A&M University - Kingsville"
     }
   ],
