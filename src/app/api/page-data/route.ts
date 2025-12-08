@@ -31,7 +31,7 @@ const contactBar = {
     {
       platform: "linkedin",
       icon: "/images/icon/linkedin-icon.svg",
-      link: "https://linkedin.com"
+      link: "https://linkedin.com/in/thomas-ford-7ab744393"
     },
     {
       platform: "facebook",
