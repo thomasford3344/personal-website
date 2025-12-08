@@ -170,7 +170,7 @@ const contactLinks = {
     },
     {
       title: "LinkedIn",
-      href: "/"
+      href: "https://linkedin.com/in/thomas-ford-7ab744393"
     },
   ],
   contactInfo: [
