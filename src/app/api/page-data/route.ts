@@ -19,7 +19,7 @@ const contactBar = {
       type: "website",
       label: "www.thomasford.com",
       icon: "/images/icon/web-icon.svg",
-      link: "https://www.thomasford.com"
+      link: "https://thomas-fords.vercel.app"
     }
   ],
   socialItems: [
