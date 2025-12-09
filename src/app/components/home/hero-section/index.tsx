@@ -17,7 +17,7 @@ const index = () => {
                         </div>
                         <p className="text-secondary font-normal max-w-md xl:max-w-xl"><span className="font-bold">Senior DevOps and Software Engineer</span> who loves building scalable cloud setups, automating everything, and keeping systems fast, reliable, and secure. Big fan of Kubernetes, GCP, and clean CI/CD pipelines.</p>
                     </div>
-                    <Image src={"/images/home/banner/banner-img.png"} alt="banner-img" width={685} height={650} className="block lg:hidden" />
+                    <Image src={"/images/home/banner/banner-img.png"} alt="banner-img" width={600} height={750} className="block lg:hidden" />
                 </div>
             </div>
             <div className="absolute right-0 top-0 hidden h-auto w-1/2 lg:block 2xl:h-171.5 2xl:w-187.5">
