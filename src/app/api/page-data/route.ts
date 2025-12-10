@@ -11,9 +11,9 @@ const contactBar = {
     },
     {
       type: "phone",
-      label: "+1 (254) 262-5719",
+      label: "+1 (818) 934-0381",
       icon: "/images/icon/call-icon.svg",
-      link: "tel:+12542625719"
+      link: "tel:+18189340381"
     },
     {
       type: "website",
@@ -181,8 +181,8 @@ const contactLinks = {
     },
     {
       type: "phone",
-      label: "+1 (254) 262-5719",
-      link: "tel:+12542625719"
+      label: "+1 (818) 934-0381",
+      link: "tel:+18189340381"
     }
   ]
 }
