@@ -2,40 +2,16 @@ import { NextResponse } from "next/server";
 
 const workData = [
     {
-        image: "/images/work/work-img-1.jpg",
-        title: "Mug Sticker Designing",
-        client: "John Honnai",
-        slug: "mug-sticker-designing"
+        image: "/images/work/vieaura_optrix_platform.png",
+        title: "OPTRIX Platform",
+        company: "Vieaura Inc.",
+        slug: "https://vieaura.com/what-we-do"
     },
     {
-        image: "/images/work/work-img-2.jpg",
-        title: "Mobile App Design",
-        client: "John Honnai",
-        slug: "mobile-app-design"
-    },
-    {
-        image: "/images/work/work-img-3.jpg",
-        title: "Fashion Website Template",
-        client: "John Honnai",
-        slug: "fashion-website-template"
-    },
-    {
-        image: "/images/work/work-img-4.jpg",
-        title: "Book Cover Design",
-        client: "John Honnai",
-        slug: "book-cover-design"
-    },
-    {
-        image: "/images/work/work-img-5.jpg",
-        title: "Mobile App Design",
-        client: "John Honnai",
-        slug: "mobile-app-design"
-    },
-    {
-        image: "/images/work/work-img-6.jpg",
-        title: "Mug Sticker Designing",
-        client: "John Honnai",
-        slug: "mug-sticker-designing"
+        image: "/images/work/cip_graphic.png",
+        title: "Cyber Intelligence Platform",
+        company: "RevBits LLC",
+        slug: "https://revbits.com/cyber-intelligence-platform"
     }
 ];
 

@@ -39,6 +39,7 @@ const LatestWork = () => {
                                             <Link
                                                 href={`${value.slug}`}
                                                 className="absolute top-0 left-0 backdrop-blur-xs bg-primary/15 w-full h-full hidden group-hover:flex rounded-lg"
+                                                target="_blank"
                                             >
                                                 <span className="flex justify-center items-center p-5 w-full">
                                                     <svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -61,7 +62,7 @@ const LatestWork = () => {
                                                 </Link>
                                                 <Image src={"/images/icon/right-arrow-icon.svg"} alt="right-arrow-icon" width={30} height={30} />
                                             </div>
-                                            <p>Client: {value?.client}</p>
+                                            <p>{value?.company}</p>
                                         </div>
                                     </div>
                                 )
