@@ -34,7 +34,7 @@ const AboutMe = () => {
 
                 <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray">
                   {[
-                    { count: `0${experienceYear}+`, label: "Years of experience" },
+                    { count: experienceYear < 10 ? `0${experienceYear}+` : `${experienceYear}+`, label: "Years of experience" },
                     { count: "165+", label: "Happy Clients" },
                     { count: "1800+", label: "Project Completed" },
                   ].map((item, i) => (
