@@ -3,27 +3,27 @@ import React from "react";
 const ExperienceSec = () => {
   const experiences = [
     {
-      year: "2020-2025",
-      title: "DevOps Engineer",
+      year: "2021-2025",
+      title: "Senior DevOps Engineer",
       company: "Vieaura Inc",
       type: "Remote",
       description:
         "Built automated CI/CD pipelines, managed scalable Kubernetes clusters on GCP, implemented monitoring and logging, and streamlined workflows through Jira and infrastructure automation to support OPTRIX’s intelligent, real-time operational platform.",
     },
     {
-      year: "2018-2020",
-      title: "Software Engineer",
+      year: "2018-2021",
+      title: "DevOps Engineer",
       company: "RevBits LLC",
       type: "Remote",
       description:
-        "Developed security product features in Python and Java, optimized backend components, translated penetration-testing findings into product improvements, and ensured software reliability through code reviews, debugging, and testing across RevBits’ CIP/XDR, Email Security, EDR, and Zero Trust platforms.",
+        "Supported security product features in Python and Java, optimized backend components, translated penetration-testing findings into product improvements, and ensured software reliability through code reviews, debugging, and testing across RevBits’ CIP/XDR, Email Security, EDR, and Zero Trust platforms.",
     },
     {
-      year: "2017-2018",
-      title: "Full Stack Software Developer",
+      year: "2015-2018",
+      title: "Systems Engineer",
       company: "EBQ",
-      type: "Fulltime",
-      description: "Developed backend systems in Java and Python, built APIs and databases for dynamic content, integrated internal services to improve operations, and collaborated with teams to deliver features and optimize performance.",
+      type: "On-site",
+      description: "Maintained backend systems in Java and Python, built APIs and databases for dynamic content, integrated internal services to improve operations, and collaborated with teams to deliver features and optimize performance.",
     },
   ];
 

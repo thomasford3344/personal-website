@@ -45,26 +45,11 @@ const contactBar = {
 const educationData = {
   education: [
     {
-      title: "B.Eng.: Computer Science - 2017",
+      title: "B.Eng.: Computer Science - 2015",
       description: "Texas A&M University - Kingsville"
     }
   ],
   skills: [
-    {
-      name: "Teamwork & Communication",
-      icon: "/images/home/education-skill/teamwork-icon.svg",
-      rating: 5
-    },
-    {
-      name: "Problem Solving",
-      icon: "/images/home/education-skill/problem-solving-icon.svg",
-      rating: 5
-    },
-    {
-      name: "CI/CD",
-      icon: "/images/home/education-skill/ci-cd-icon.svg",
-      rating: 5
-    },
     {
       name: "AWS",
       icon: "/images/home/education-skill/aws-icon.svg",
@@ -81,26 +66,6 @@ const educationData = {
       rating: 5
     },
     {
-      name: "Git",
-      icon: "/images/home/education-skill/git-icon.svg",
-      rating: 5
-    },
-    {
-      name: "GitHub",
-      icon: "/images/home/education-skill/github-icon.svg",
-      rating: 5
-    },
-    {
-      name: "Bitbucket",
-      icon: "/images/home/education-skill/bitbucket-icon.svg",
-      rating: 5
-    },
-    {
-      name: "Docker",
-      icon: "/images/home/education-skill/docker-icon.svg",
-      rating: 5
-    },
-    {
       name: "Terraform",
       icon: "/images/home/education-skill/terraform-icon.svg",
       rating: 5
@@ -111,8 +76,18 @@ const educationData = {
       rating: 4
     },
     {
+      name: "Docker",
+      icon: "/images/home/education-skill/docker-icon.svg",
+      rating: 5
+    },
+    {
       name: "Kubernetes",
       icon: "/images/home/education-skill/kubernetes-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Helm",
+      icon: "/images/home/education-skill/helm-icon.svg",
       rating: 5
     },
     {
@@ -121,23 +96,23 @@ const educationData = {
       rating: 5
     },
     {
-      name: "Grafana",
-      icon: "/images/home/education-skill/grafana-icon.svg",
+      name: "Git",
+      icon: "/images/home/education-skill/git-icon.svg",
       rating: 5
     },
     {
-      name: "Bash",
-      icon: "/images/home/education-skill/bash-icon.svg",
+      name: "GitHub",
+      icon: "/images/home/education-skill/github-icon.svg",
       rating: 5
     },
     {
-      name: "Powershell",
-      icon: "/images/home/education-skill/powershell-icon.svg",
+      name: "GitLab",
+      icon: "/images/home/education-skill/gitlab-icon.svg",
       rating: 5
     },
     {
-      name: "Agile/Scrum",
-      icon: "/images/home/education-skill/agile-scrum-icon.svg",
+      name: "Bitbucket",
+      icon: "/images/home/education-skill/bitbucket-icon.svg",
       rating: 5
     },
     {
@@ -153,6 +128,91 @@ const educationData = {
     {
       name: "Nodejs",
       icon: "/images/home/education-skill/nodejs-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Bash",
+      icon: "/images/home/education-skill/bash-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Powershell",
+      icon: "/images/home/education-skill/powershell-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Prometheus",
+      icon: "/images/home/education-skill/prometheus-icon.svg",
+      rating: 5
+    },    
+    {
+      name: "Grafana",
+      icon: "/images/home/education-skill/grafana-icon.svg",
+      rating: 5
+    },   
+    {
+      name: "Linux",
+      icon: "/images/home/education-skill/linux-icon.svg",
+      rating: 5
+    }, 
+    {
+      name: "Ubuntu",
+      icon: "/images/home/education-skill/ubuntu-icon.svg",
+      rating: 5
+    },
+    {
+      name: "CentOS",
+      icon: "/images/home/education-skill/centos-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Windows Server",
+      icon: "/images/home/education-skill/windows-icon.svg",
+      rating: 5
+    },
+    {
+      name: "PostgresSQL",
+      icon: "/images/home/education-skill/postgressql-icon.svg",
+      rating: 5
+    },
+    {
+      name: "MySQL",
+      icon: "/images/home/education-skill/mysql-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Redis",
+      icon: "/images/home/education-skill/redis-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Kafka",
+      icon: "/images/home/education-skill/kafka-icon.svg",
+      rating: 5
+    },
+    {
+      name: "CI/CD",
+      icon: "/images/home/education-skill/ci-cd-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Agile/Scrum",
+      icon: "/images/home/education-skill/agile-scrum-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Jira",
+      icon: "/images/home/education-skill/jira-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Teamwork & Communication",
+      icon: "/images/home/education-skill/teamwork-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Problem Solving",
+      icon: "/images/home/education-skill/problem-solving-icon.svg",
       rating: 5
     }
   ]

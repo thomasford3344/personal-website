@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 const AboutMe = () => {
-  const experienceYear = new Date().getFullYear() - 2017;
+  const experienceYear = new Date().getFullYear() - 2015;
 
   return (
     <section>
@@ -24,12 +24,7 @@ const AboutMe = () => {
 
               <div className="w-full lg:max-w-2xl flex-1">
                 <p>
-                  <span className="font-bold">Senior DevOps and Software Engineer</span> with <span className="font-bold">{experienceYear}+ years</span> of experience building
-                  scalable cloud infrastructure, automating deployments, and developing reliable backend systems. Skilled in Kubernetes, GCP, Bitbucket, Jira,
-                  Python, and Java, with a strong track record of supporting intelligent, data-driven platforms like OPTRIX and contributing to next-gen
-                  cybersecurity products at RevBits. Adept at improving delivery pipelines, optimizing system performance, and collaborating across teams to
-                  deliver secure, high-quality software. Known for clear communication, fast problem-solving, and driving efficiency in fast-paced, complex
-                  environments.
+                  <span className="font-bold">Senior DevOps Engineer</span> with <span className="font-bold">{experienceYear}+ years</span> of experience experience in cloud infrastructure, CI/CD pipelines, Kubernetes, and AWS. Experienced in building and maintaining high-availability systems, automating deployments, and implementing monitoring, logging and alerting for production environments. Background in Python and Java development, security-focused platforms, and cross-functional collaboration. Proven ability to improve reliability, scalability, and operational efficiency in remote, fast-paced environments.
                 </p>
 
                 <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray">

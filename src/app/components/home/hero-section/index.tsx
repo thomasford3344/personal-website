@@ -13,9 +13,9 @@ const index = () => {
                                 <Image src={"/images/home/banner/wave-icon.svg"} alt="wave-icon" width={62} height={62} className=""/>
                                 </div>
                             </div>
-                            <h2>Senior DevOps & Software Engineer</h2>
+                            <h2>Senior DevOps Engineer</h2>
                         </div>
-                        <p className="text-secondary font-normal max-w-md xl:max-w-xl"><span className="font-bold">Senior DevOps and Software Engineer</span> who loves building scalable cloud setups, automating everything, and keeping systems fast, reliable, and secure. Big fan of Kubernetes, GCP, and clean CI/CD pipelines.</p>
+                        <p className="text-secondary font-normal max-w-md xl:max-w-xl"><span className="font-bold">Senior DevOps Engineer</span> who loves building scalable cloud setups, automating everything, and keeping systems fast, reliable, and secure. Big fan of Kubernetes, GCP, and clean CI/CD pipelines.</p>
                     </div>
                     <Image src={"/images/home/banner/banner-img.png"} alt="banner-img" width={750} height={750} className="block lg:hidden" />
                 </div>

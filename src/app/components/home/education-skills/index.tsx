@@ -54,7 +54,7 @@ const EducationSkills = () => {
                                                 <Image src={value?.icon} alt="icon" width={70} height={70} />
                                                 <p className="text-black font-normal text-center">{value?.name}</p>
                                             </div>
-                                            <div className="flex gap-1">
+                                            {/* <div className="flex gap-1">
                                                 {[...Array(5)].map((_, i) => (
                                                     <svg
                                                         key={i}
@@ -72,7 +72,7 @@ const EducationSkills = () => {
                                                         />
                                                     </svg>
                                                 ))}
-                                            </div>
+                                            </div> */}
 
 
                                         </div>
